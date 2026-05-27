@@ -1,0 +1,6 @@
+{
+  "name": "PantryPulse",
+  "description": "A smart, local-first pantry tracking assistant utilizing Streamlit-inspired architecture to keep inventory, highlight high-risk expiring ingredients, and generate zero-waste recipes using Gemini 2.5 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
